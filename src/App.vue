@@ -14,11 +14,11 @@ export default {
   data() {
     return {
       images: [
-        "./src/assets/flo.jfif",
-        "./src/assets/download.jfif",
-        "./src/assets/4.jfif",
-        "./src/assets/flo5.jfif",
-        "./src/assets/5.jfif"
+        "./src/assets/png/flo.png",
+        "./src/assets/png/download.png",
+        "./src/assets/png/4.png",
+        "./src/assets/png/flo5.png",
+        "./src/assets/png/5.png"
         
       ],
     };
