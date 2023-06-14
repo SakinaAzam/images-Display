@@ -1,8 +1,6 @@
 <template>
      <div class="container">
-    <div v-for="item in img" :key="item" >
-      <img v-bind:src="item" />
-    </div>
+      <img v-bind:src="item" v-for="item in img" :key="item"  />
   </div>
 </template>
 <script>

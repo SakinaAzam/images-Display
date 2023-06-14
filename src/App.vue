@@ -1,9 +1,8 @@
 <template>
 <div class="root">
+  <h1 style="text-align: center; font-size: 50px; color: hotpink; font-style: italic;">Images are display here are in Array</h1>
 <properties :img="images"/>
-
 </div>
- 
 </template>
 
 <script>
